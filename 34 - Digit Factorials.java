@@ -1,7 +1,7 @@
 package transport;
 
 /*
-* Python 3.8
+* Java 14.0.1
 frostrivera19
 Project Euler Problem 34 : Digit factorials
 https://projecteuler.net/archives

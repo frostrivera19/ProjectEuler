@@ -91,3 +91,4 @@ public class deliberateAllPrimes {
             return allPrimes;
         }
     }
+}
